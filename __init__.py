@@ -1,0 +1,1 @@
+from text_segmentation import text_segmentation_class
